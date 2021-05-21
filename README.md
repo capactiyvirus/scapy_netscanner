@@ -1,5 +1,6 @@
+# Scapy Net Scanner
 
-
+Code is currently used to scan the list of shodan ip's and check a bunch of things
 
 
 
