@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="doc/scapy_logo.png" width=200>
+<img src="scapy_logo.png" width=200>
 </p>
 
 <!-- start_ppi_description -->
